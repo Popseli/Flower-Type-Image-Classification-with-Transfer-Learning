@@ -1,3 +1,7 @@
-# Multiclass-Image-Classification-with-Transfer-Learning
-XXXXXXXXX This project evaluates and compares the prediction performances of various state of art pre-trained image classification models to classify 5 types of flowers.
-The pre-trained models used in this projects are 
+# Project Overview
+The aim of this project is to evaluate and compare the prediction performances of various state of art pre-trained image classification models in classifying 5 types of flowers.
+The state of art pre-trained models used in this project are InceptionResNetV2, VGG16, MobileNetV2 and ResNet50V2. The dataset used in this project was obtained from Kaggle. It consists of 5000 images of flowers categorized as Orchid, Sunflower, Tulip, Lotus and Lilly. Each category has 1000 images. Here is the Github link to the code file of the project.
+# Methodology
+We first implement our own basic CNN model, consisting of 2 convolution layers and one dense layer, as a baseline model. Then the 4 pre-trained models were implemented whereby the base layers were frozen from training, thus, adapting their original weights downloaded from their sources. In this way, we use the base layers as feature extractors. We then customize and train their classification layers to adapt to the 5 classes of flowers of our dataset. Finally, we compare the performance results of our baseline model and of all 4 pre-trained models. Given the moderate size of the training dataset, we automatically apply image augmentation techniques to increase the size in real time when training each model. Also, we implemented an early stopping technique to automatically determine the precise number of training epochs to prevent overfitting.
+# Summary of Prediction Results 
+
