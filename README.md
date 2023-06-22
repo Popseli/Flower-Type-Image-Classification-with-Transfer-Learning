@@ -12,7 +12,7 @@ We first implement our own basic CNN model, consisting of 2 convolution layers a
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20InceptionResNetV2.png)
 
-![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%202.png)
+![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%204.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20ResNet50V2%20-%202.png)
 
