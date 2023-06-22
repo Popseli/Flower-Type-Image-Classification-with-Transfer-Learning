@@ -26,7 +26,6 @@ Classification report of MobileNetV2
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%204.png)
 
 
-
 Classification report of ResNet50V2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20ResNet50V2%20-%202.png)
