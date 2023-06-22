@@ -31,4 +31,4 @@ Classification report of ResNet50V2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20ResNet50V2%20-%202.png)
 
-It can be observed that all 4 pre-trained models have achieved better performance across all metrics than the baseline CNN. The last three pre-trained models achieved the highest accuracy rates than that of VGG16. One common observation across all models is that they have all attained the lowest prediction errors for the flower type 'sunflower'. 
+It can be observed that all 4 pre-trained models have achieved better performances across all metrics than the baseline CNN. The last three pre-trained models achieved the highest accuracy rates compared to the rest. One common observation across all models is that they have all attained the lowest prediction errors for the flower type 'sunflower'. However, with further adjustments to the models including training of some of the base layers and tuning of classification layers, the performances of the models can be improved.
