@@ -7,23 +7,23 @@ We first implement our own basic CNN model, consisting of 2 convolution layers a
 2. BatchNormalization: We normalize the output of each batch of the base layer to reduce the scale to a mean of 0 and a standard deviation of 1. This approach stabilizes the loss function thus increasing the learning speed through the use of higher learning rates. It also provides some regularization and therefore reduces prediction errors.
 3. Early stopping: This technique is applied to automatically determine the precise number of training epochs in order to prevent overfitting.
 # Summary of Prediction Results 
-
+Below are classification reports of the evaluated models for the prediction of 5 types of flowers
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20CNN.png)
 
-Classification Report of Baseline CNN
+Classification report of Baseline CNN
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20VGG16.png)
 
-Classification Report of VGG16
+Classification report of VGG16
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20InceptionResNetV2.png)
 
-Classification Report of InceptionResNetV2
+Classification report of InceptionResNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%204.png)
 
-Classification Report of MobileNetV2
+Classification report of MobileNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20ResNet50V2%20-%202.png)
 
-Classification Report of ResNet50V2
+Classification report of ResNet50V2
