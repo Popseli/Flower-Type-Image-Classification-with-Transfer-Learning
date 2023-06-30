@@ -17,7 +17,7 @@ B. Classification report of VGG16
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20VGG16.png)
 
-C> Classification report of InceptionResNetV2
+C. Classification report of InceptionResNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20InceptionResNetV2.png)
 
