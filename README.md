@@ -9,24 +9,24 @@ We first implement our own basic CNN model, consisting of 2 convolution layers a
 # Prediction Result Summary 
 Below are classification reports of the evaluated models for the prediction of 5 types of flowers:
 
-Classification report of Baseline CNN
+A. Classification report of Baseline CNN
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20CNN.png)
 
-Classification report of VGG16
+B. Classification report of VGG16
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20VGG16.png)
 
-Classification report of InceptionResNetV2
+C> Classification report of InceptionResNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20InceptionResNetV2.png)
 
-Classification report of MobileNetV2
+D. Classification report of MobileNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%204.png)
 
 
-Classification report of ResNet50V2
+E. Classification report of ResNet50V2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20ResNet50V2%20-%202.png)
 
