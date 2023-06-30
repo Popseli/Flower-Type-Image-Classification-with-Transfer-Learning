@@ -7,34 +7,34 @@ We first implement our own basic CNN model, consisting of 2 convolution layers a
 2. BatchNormalization: We normalize the output of each batch of the base layer to reduce the scale to a mean of 0 and a standard deviation of 1. This approach stabilizes the loss function thus increasing the learning speed through the use of higher learning rates. It also provides some regularization and therefore reduces prediction errors.
 3. Early stopping: This technique is applied to automatically determine the precise number of training epochs in order to prevent overfitting.
 # Prediction Result Summary 
-Below are classification reports of the evaluated models for the prediction of 5 types of flowers:
+Below are confusion matrices and classification reports of the evaluated models for the prediction of 5 types of flowers:
 
-A. Classification report of Baseline CNN
+A. Confusion Matrix and Classification Report of Baseline CNN
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20CNN%2060%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20CNN.png)
 
-B. Classification report of VGG16
+B. Confusion Matrix and Classification Report of VGG16
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20VGG16%2050%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20VGG16.png)
 
-C. Classification report of InceptionResNetV2
+C. Confusion Matrix and Classification Report of InceptionResNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20InceptionResNetV2%2050%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20InceptionResNetV2.png)
 
-D. Classification report of MobileNetV2
+D. Confusion Matrix and Classification Report of MobileNetV2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20MobileNetV2%2050%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20MobileNetV2-%204.png)
 
 
-E. Classification report of ResNet50V2
+E. Confusion Matrix and Classification Report of ResNet50V2
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC-%20ResNet50V2%2050%25.png)
 
