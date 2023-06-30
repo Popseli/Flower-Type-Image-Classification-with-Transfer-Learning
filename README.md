@@ -6,7 +6,7 @@ We first implement our own basic CNN model, consisting of 2 convolution layers a
 1. Image augmentation: Given the moderate size of the training dataset, we automatically apply image augmentation techniques to increase the size in real time when training each model. Some of the techniques applied are image rotation, shifting, zooming and changes in brightness.
 2. BatchNormalization: We normalize the output of each batch of the base layer to reduce the scale to a mean of 0 and a standard deviation of 1. This approach stabilizes the loss function thus increasing the learning speed through the use of higher learning rates. It also provides some regularization and therefore reduces prediction errors.
 3. Early stopping: This technique is applied to automatically determine the precise number of training epochs in order to prevent overfitting.
-# Summary of Prediction Results 
+# Prediction Result Summary 
 Below are classification reports of the evaluated models for the prediction of 5 types of flowers:
 
 Classification report of Baseline CNN
