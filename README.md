@@ -17,7 +17,7 @@ A. Classification report of Baseline CNN
 
 B. Classification report of VGG16
 
-![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20VGG16%2060%25.png)
+![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20VGG16%2050%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20VGG16.png)
 
