@@ -11,7 +11,7 @@ Below are classification reports of the evaluated models for the prediction of 5
 
 A. Classification report of Baseline CNN
 
-![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20CNN%2050%25.png)
+![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/ROC%20-%20CNN%2060%25.png)
 
 ![](https://github.com/Popseli/Multiclass-Image-Classification-with-Transfer-Learning/blob/main/Classification%20Report%20-%20CNN.png)
 
